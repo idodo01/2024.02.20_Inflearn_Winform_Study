@@ -3,12 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\idodo\\Documents\\Study2_C\\WinFormsAppMaster\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\idodo\\Documents\\Study2_C\\WinFormsAppMaster\\Models\\WinformDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Models\\WinformDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F84E6C21-3B3D-4AC7-89B3-13A44AB24463}|WinFormsAppMaster.csproj|c:\\users\\idodo\\documents\\study2_c\\winformsappmaster\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F84E6C21-3B3D-4AC7-89B3-13A44AB24463}|WinFormsAppMaster.csproj|solutionrelative:frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F84E6C21-3B3D-4AC7-89B3-13A44AB24463}|WinFormsAppMaster.csproj|c:\\users\\idodo\\documents\\study2_c\\winformsappmaster\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{F84E6C21-3B3D-4AC7-89B3-13A44AB24463}|WinFormsAppMaster.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{F84E6C21-3B3D-4AC7-89B3-13A44AB24463}|WinFormsAppMaster.csproj|c:\\users\\idodo\\documents\\study2_c\\winformsappmaster\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F84E6C21-3B3D-4AC7-89B3-13A44AB24463}|WinFormsAppMaster.csproj|solutionrelative:frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F84E6C21-3B3D-4AC7-89B3-13A44AB24463}|WinFormsAppMaster.csproj|c:\\users\\idodo\\documents\\study2_c\\winformsappmaster\\frmmain.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F84E6C21-3B3D-4AC7-89B3-13A44AB24463}|WinFormsAppMaster.csproj|solutionrelative:frmmain.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F84E6C21-3B3D-4AC7-89B3-13A44AB24463}|WinFormsAppMaster.csproj|c:\\users\\idodo\\documents\\study2_c\\winformsappmaster\\interfaces\\idatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F84E6C21-3B3D-4AC7-89B3-13A44AB24463}|WinFormsAppMaster.csproj|solutionrelative:interfaces\\idatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F84E6C21-3B3D-4AC7-89B3-13A44AB24463}|WinFormsAppMaster.csproj|c:\\users\\idodo\\documents\\study2_c\\winformsappmaster\\models\\gangnamgupopulation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F84E6C21-3B3D-4AC7-89B3-13A44AB24463}|WinFormsAppMaster.csproj|solutionrelative:models\\gangnamgupopulation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,31 +30,70 @@
       "DocumentGroups": [
         {
           "DockedWidth": 3389,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "WinformDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\idodo\\Documents\\Study2_C\\WinFormsAppMaster\\Models\\WinformDbContext.cs",
-              "RelativeDocumentMoniker": "Models\\WinformDbContext.cs",
-              "ToolTip": "C:\\Users\\idodo\\Documents\\Study2_C\\WinFormsAppMaster\\Models\\WinformDbContext.cs",
-              "RelativeToolTip": "Models\\WinformDbContext.cs",
+              "DocumentIndex": 2,
+              "Title": "frmMain.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\idodo\\Documents\\Study2_C\\WinFormsAppMaster\\frmMain.Designer.cs",
+              "RelativeDocumentMoniker": "frmMain.Designer.cs",
+              "ToolTip": "C:\\Users\\idodo\\Documents\\Study2_C\\WinFormsAppMaster\\frmMain.Designer.cs",
+              "RelativeToolTip": "frmMain.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T08:25:02.045Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IDatabase.cs",
+              "DocumentMoniker": "C:\\Users\\idodo\\Documents\\Study2_C\\WinFormsAppMaster\\Interfaces\\IDatabase.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IDatabase.cs",
+              "ToolTip": "C:\\Users\\idodo\\Documents\\Study2_C\\WinFormsAppMaster\\Interfaces\\IDatabase.cs",
+              "RelativeToolTip": "Interfaces\\IDatabase.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-23T15:00:16.55Z",
+              "WhenOpened": "2025-02-24T08:24:51.391Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GangnamguPopulation.cs",
+              "DocumentMoniker": "C:\\Users\\idodo\\Documents\\Study2_C\\WinFormsAppMaster\\Models\\GangnamguPopulation.cs",
+              "RelativeDocumentMoniker": "Models\\GangnamguPopulation.cs",
+              "ToolTip": "C:\\Users\\idodo\\Documents\\Study2_C\\WinFormsAppMaster\\Models\\GangnamguPopulation.cs",
+              "RelativeToolTip": "Models\\GangnamguPopulation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAUAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T08:24:14.794Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmMain.cs",
+              "DocumentMoniker": "C:\\Users\\idodo\\Documents\\Study2_C\\WinFormsAppMaster\\frmMain.cs",
+              "RelativeDocumentMoniker": "frmMain.cs",
+              "ToolTip": "C:\\Users\\idodo\\Documents\\Study2_C\\WinFormsAppMaster\\frmMain.cs",
+              "RelativeToolTip": "frmMain.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAxwCEAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T08:01:49.834Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Form1.cs [\uB514\uC790\uC778]",
-              "DocumentMoniker": "C:\\Users\\idodo\\Documents\\Study2_C\\WinFormsAppMaster\\Form1.cs",
-              "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "C:\\Users\\idodo\\Documents\\Study2_C\\WinFormsAppMaster\\Form1.cs [\uB514\uC790\uC778]",
-              "RelativeToolTip": "Form1.cs [\uB514\uC790\uC778]",
+              "Title": "frmMain.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "C:\\Users\\idodo\\Documents\\Study2_C\\WinFormsAppMaster\\frmMain.cs",
+              "RelativeDocumentMoniker": "frmMain.cs",
+              "ToolTip": "C:\\Users\\idodo\\Documents\\Study2_C\\WinFormsAppMaster\\frmMain.cs [\uB514\uC790\uC778]",
+              "RelativeToolTip": "frmMain.cs [\uB514\uC790\uC778]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-23T14:56:51.734Z",
+              "WhenOpened": "2025-02-24T08:00:40.997Z",
               "EditorCaption": " [\uB514\uC790\uC778]"
             }
           ]

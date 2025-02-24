@@ -108,7 +108,6 @@ C:\Users\idodo\Documents\Study2_C\WinFormsAppMaster\bin\Debug\net8.0-windows\zh-
 C:\Users\idodo\Documents\Study2_C\WinFormsAppMaster\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
 C:\Users\idodo\Documents\Study2_C\WinFormsAppMaster\bin\Debug\net8.0-windows\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
 C:\Users\idodo\Documents\Study2_C\WinFormsAppMaster\obj\Debug\net8.0-windows\WinFormsAppMaster.csproj.AssemblyReference.cache
-C:\Users\idodo\Documents\Study2_C\WinFormsAppMaster\obj\Debug\net8.0-windows\WinFormsAppMaster.Form1.resources
 C:\Users\idodo\Documents\Study2_C\WinFormsAppMaster\obj\Debug\net8.0-windows\WinFormsAppMaster.csproj.GenerateResource.cache
 C:\Users\idodo\Documents\Study2_C\WinFormsAppMaster\obj\Debug\net8.0-windows\WinFormsAppMaster.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\idodo\Documents\Study2_C\WinFormsAppMaster\obj\Debug\net8.0-windows\WinFormsAppMaster.AssemblyInfoInputs.cache
@@ -120,3 +119,5 @@ C:\Users\idodo\Documents\Study2_C\WinFormsAppMaster\obj\Debug\net8.0-windows\ref
 C:\Users\idodo\Documents\Study2_C\WinFormsAppMaster\obj\Debug\net8.0-windows\WinFormsAppMaster.pdb
 C:\Users\idodo\Documents\Study2_C\WinFormsAppMaster\obj\Debug\net8.0-windows\WinFormsAppMaster.genruntimeconfig.cache
 C:\Users\idodo\Documents\Study2_C\WinFormsAppMaster\obj\Debug\net8.0-windows\ref\WinFormsAppMaster.dll
+C:\Users\idodo\Documents\Study2_C\WinFormsAppMaster\obj\Debug\net8.0-windows\WinFormsAppMaster.sourcelink.json
+C:\Users\idodo\Documents\Study2_C\WinFormsAppMaster\obj\Debug\net8.0-windows\WinFormsAppMaster.frmMain.resources
